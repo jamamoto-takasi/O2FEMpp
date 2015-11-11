@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/kratos/!svn/ver/9003/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/README
+END
+make.inc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/make.inc
+END
+DoxyConfig
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/DoxyConfig
+END

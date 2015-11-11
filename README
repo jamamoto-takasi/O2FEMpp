@@ -1,0 +1,14 @@
+Graphical User Interfaces in VTK
+https://www.cs.purdue.edu/homes/cs530/docs/guivtk.html
+
+which shows that VTK and Python is a good combination. VTK has binding to Python.
+Tkinter can be used as a tool to develop GUI for Python. It comes with standard Python distribution. Tkinter has a widget vtkTkRenderWindowInteractor that can be used to connect with VTK
+
+An example using vtkTkRenderWindowInteractor can be found in
+https://www.evl.uic.edu/aspale/cs526/final/2-2-1.htm
+
+This site shows some interesting assignments using VTK for scientific visualization
+https://www.cs.purdue.edu/homes/cs530/projects.html
+
+Good Tkinter tutorial
+http://zetcode.com/gui/tkinter/

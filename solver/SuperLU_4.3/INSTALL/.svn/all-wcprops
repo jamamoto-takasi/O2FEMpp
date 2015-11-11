@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/INSTALL
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/INSTALL/Makefile
+END
+superlu_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/INSTALL/superlu_timer.c
+END
+install.csh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/INSTALL/install.csh
+END
+lsame.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/INSTALL/lsame.c
+END
+slamchtst.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/INSTALL/slamchtst.c
+END
+dlamchtst.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/INSTALL/dlamchtst.c
+END
+slamch.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/INSTALL/slamch.c
+END
+dlamch.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/INSTALL/dlamch.c
+END
+timertst.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/INSTALL/timertst.c
+END

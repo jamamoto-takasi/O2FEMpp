@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE
+END
+cmat.cua
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/cmat.cua
+END
+slinsolx.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/slinsolx.c
+END
+zitersol.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/zitersol.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/README
+END
+slinsol.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/slinsol.c
+END
+citersol.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/citersol.c
+END
+citersol1
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/citersol1
+END
+dlinsol1.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/dlinsol1.c
+END
+ditersol1
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/ditersol1
+END
+zlinsol.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/zlinsol.c
+END
+dlinsolx.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/dlinsolx.c
+END
+cfgmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/cfgmr.c
+END
+dfgmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/dfgmr.c
+END
+sitersol1
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/sitersol1
+END
+sitersol.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/sitersol.c
+END
+citersol1.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/citersol1.c
+END
+ditersol1.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/ditersol1.c
+END
+zitersol1
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/zitersol1
+END
+zlinsol1.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/zlinsol1.c
+END
+clinsolx1.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/clinsolx1.c
+END
+dlinsolx1.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/dlinsolx1.c
+END
+clinsolx2.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/clinsolx2.c
+END
+sfgmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/sfgmr.c
+END
+dlinsolx2.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/dlinsolx2.c
+END
+cg20.cua
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/cg20.cua
+END
+zlinsolx.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/zlinsolx.c
+END
+clinsol1.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/clinsol1.c
+END
+sitersol1.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/sitersol1.c
+END
+ditersol.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/ditersol.c
+END
+zfgmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/zfgmr.c
+END
+fgmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/fgmr.c
+END
+clinsolx.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/clinsolx.c
+END
+slinsolx1.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/slinsolx1.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/Makefile
+END
+zitersol1.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/zitersol1.c
+END
+g20.rua
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/g20.rua
+END
+slinsolx2.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/slinsolx2.c
+END
+superlu.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/superlu.c
+END
+clinsol.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/clinsol.c
+END
+sp_ienv.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/sp_ienv.c
+END
+zlinsolx1.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/zlinsolx1.c
+END
+slinsol1.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/slinsol1.c
+END
+dlinsol.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/dlinsol.c
+END
+zlinsolx2.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/EXAMPLE/zlinsolx2.c
+END

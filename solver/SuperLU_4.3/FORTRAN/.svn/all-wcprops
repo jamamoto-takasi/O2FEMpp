@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/FORTRAN
+END
+c_fortran_zgssv.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/FORTRAN/c_fortran_zgssv.c
+END
+f77_main.f
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/FORTRAN/f77_main.f
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/FORTRAN/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/FORTRAN/README
+END
+c_fortran_dgssv.c.bak
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/FORTRAN/c_fortran_dgssv.c.bak
+END
+c_fortran_dgssv.c.old
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/FORTRAN/c_fortran_dgssv.c.old
+END
+c_fortran_cgssv.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/FORTRAN/c_fortran_cgssv.c
+END
+c_fortran_sgssv.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/FORTRAN/c_fortran_sgssv.c
+END
+f77exm.out
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/FORTRAN/f77exm.out
+END
+zhbcode1.f
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/FORTRAN/zhbcode1.f
+END
+c_fortran_dgssv.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/FORTRAN/c_fortran_dgssv.c
+END
+z_f77_main.f
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/FORTRAN/z_f77_main.f
+END
+f77_main.f.old
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/FORTRAN/f77_main.f.old
+END
+hbcode1.f
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/kratos/!svn/ver/5410/kratos/applications/ExternalSolversApplication/custom_external_libraries/SuperLU_4.3/FORTRAN/hbcode1.f
+END
