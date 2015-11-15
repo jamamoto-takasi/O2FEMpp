@@ -1,2 +1,0 @@
-/home/hbui/workspace2/oofem-sd_cpp/libs/OOFEM.so
-/home/hbui/workspace2/oofem-sd_cpp/libs/libFoxGL.so

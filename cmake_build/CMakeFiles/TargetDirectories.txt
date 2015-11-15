@@ -1,3 +1,0 @@
-/home/hbui/workspace2/oofem-sd_cpp/cmake_build/CMakeFiles/FoxGL.dir
-/home/hbui/workspace2/oofem-sd_cpp/cmake_build/CMakeFiles/OOFEM.dir
-/home/hbui/workspace2/oofem-sd_cpp/cmake_build/solver/SuperLU_4.3/CMakeFiles/superlu.dir
