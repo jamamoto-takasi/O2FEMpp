@@ -1,0 +1,23 @@
+O2FEM++ requires 3 libraries to compile:
+
++ Cmake: tools for building the Makefile for the project
++ Boost: provide utilities for smart pointers, linear algebra and C++/python interface.
++ VTK: provide rendering components
++ Fox toolkit: provide utilities to create GUI
+
+Users/developers are required to consult the installation instruction of those libraries for proper compilation/installation. It is recommended to compile those from source to use the latest functionality of the libraries. In my experience, compiling Cmake is straightforward with gcc compilers and Boost/VTK/Fox is straight forward with Cmake and gcc compilers.
+
+The library path is required to compile the code. See configure.sh for the sample path setup.
+
+To compile O2FEM++ under Linux, create the local build folder cmake_build
+mkdir cmake_build
+
+copy the configure script or sym-link it to cmake_build folder
+ln -s ../configure.sh .
+
+execute the configure script
+sh configure.sh
+
+From the next time, to compile the code, you only need to execute
+make install -j4
+
