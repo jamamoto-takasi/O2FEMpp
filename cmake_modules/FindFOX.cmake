@@ -10,28 +10,8 @@
 # Created by Robert Osfield. 
 
 FIND_PATH(FOX_INCLUDE_DIR fx.h
-    $ENV{FOX_DIR}/include/fox-1.6
-    $ENV{FOX_DIR}/fox-1.6
-    ~/Library/Frameworks/fox-1.6
-    /Library/Frameworks/fox-1.6
-    /usr/local/include/fox-1.6
-    /usr/include/fox-1.6
-    /sw/include/fox-1.6 # Fink
-    /opt/local/include/fox-1.6 # DarwinPorts
-    /opt/csw/include/fox-1.6 # Blastwave
-    /opt/include/fox-1.6
-    /usr/freeware/include/fox-1.6
-    $ENV{FOX_DIR}/include
-    $ENV{FOX_DIR}
-    ~/Library/Frameworks
-    /Library/Frameworks
-    /usr/local/include
-    /usr/include
-    /sw/include # Fink
-    /opt/local/include # DarwinPorts
-    /opt/csw/include # Blastwave
-    /opt/include
-    /usr/freeware/include
+    ${FOX_DIR}/include/fox-1.6
+    ${FOX_DIR}/fox-1.6
 )
 
 MACRO(FIND_FOX_LIBRARY MYLIBRARY MYLIBRARYNAME)
@@ -39,17 +19,8 @@ MACRO(FIND_FOX_LIBRARY MYLIBRARY MYLIBRARYNAME)
     FIND_LIBRARY(${MYLIBRARY}
         NAMES ${MYLIBRARYNAME}
         PATHS
-        $ENV{FOX_DIR}/lib
-        $ENV{FOX_DIR}
-        ~/Library/Frameworks
-        /Library/Frameworks
-        /usr/local/lib
-        /usr/lib
-        /sw/lib
-        /opt/local/lib
-        /opt/csw/lib
-        /opt/lib
-        /usr/freeware/lib64
+        ${FOX_DIR}/lib
+        ${FOX_DIR}
     )
 
 ENDMACRO(FIND_FOX_LIBRARY LIBRARY LIBRARYNAME)
@@ -60,3 +31,4 @@ SET(FOX_FOUND "NO")
 IF(FOX_LIBRARY AND FOX_INCLUDE_DIR)
     SET(FOX_FOUND "YES")
 ENDIF(FOX_LIBRARY AND FOX_INCLUDE_DIR)
+
