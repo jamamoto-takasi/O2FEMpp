@@ -20,13 +20,13 @@ namespace FoxGL
 // Message Map VTKViewWindow class
 FXDEFMAP(VTKViewWindow) VTKViewWindowMap[]={
 
-  //__Message_Type_____________ID________________________Message_Handler_____
-  FXMAPFUNC(SEL_COMMAND,     VTKViewWindow::ID_ABOUT,      VTKViewWindow::onCmdAbout),
-  FXMAPFUNC(SEL_COMMAND,     VTKViewWindow::ID_OPEN,       VTKViewWindow::onCmdOpen),
-  FXMAPFUNC(SEL_UPDATE,      VTKViewWindow::ID_QUERY_MODE, VTKViewWindow::onUpdMode),
-  FXMAPFUNC(SEL_COMMAND,     FXWindow::ID_QUERY_MENU,	  VTKViewWindow::onQueryMenu),
-  FXMAPFUNC(SEL_COMMAND,     VTKViewWindow::ID_NEWVIEWER_1,  VTKViewWindow::onCmdNewStructureViewer),
-  FXMAPFUNC(SEL_COMMAND,     VTKViewWindow::ID_NEWVIEWER_2,  VTKViewWindow::onCmdNewDeformedStructureViewer)
+    //__Message_Type_____________ID________________________Message_Handler_____
+    FXMAPFUNC(SEL_COMMAND,     VTKViewWindow::ID_ABOUT,      VTKViewWindow::onCmdAbout),
+    FXMAPFUNC(SEL_COMMAND,     VTKViewWindow::ID_OPEN,       VTKViewWindow::onCmdOpen),
+    FXMAPFUNC(SEL_UPDATE,      VTKViewWindow::ID_QUERY_MODE, VTKViewWindow::onUpdMode),
+    FXMAPFUNC(SEL_COMMAND,     FXWindow::ID_QUERY_MENU,      VTKViewWindow::onQueryMenu),
+    FXMAPFUNC(SEL_COMMAND,     VTKViewWindow::ID_NEWVIEWER_1,  VTKViewWindow::onCmdNewStructureViewer),
+    FXMAPFUNC(SEL_COMMAND,     VTKViewWindow::ID_NEWVIEWER_2,  VTKViewWindow::onCmdNewDeformedStructureViewer)
 };
 
 
@@ -38,7 +38,8 @@ FXIMPLEMENT(VTKViewWindow,FXMainWindow,VTKViewWindowMap,ARRAYNUMBER(VTKViewWindo
 /*******************************************************************************/
 
 // Construct a VTKViewWindow
-VTKViewWindow::VTKViewWindow(FXApp* a):FXMainWindow(a,"OOFEM Structural Viewer",NULL,NULL,DECOR_ALL,0,0,800,600){
+VTKViewWindow::VTKViewWindow(FXApp* a):FXMainWindow(a,"OOFEM Structural Viewer",NULL,NULL,DECOR_ALL,0,0,800,600)
+{
   no=1;
 
   penguinicon=new FXGIFIcon(getApp(),penguin);
@@ -510,37 +511,37 @@ long VTKViewWindow::onQueryMenu(FXObject* sender,FXSelector,void* ptr){
 }
 
 
-        // vtk pipeline to create cone
-        void VTKViewWindow::create_cone_pipeline(vtkFXRenderWindowInteractor *rwi)
-		{
-			vtkRenderer *ren = vtkRenderer::New();
-			ren->SetBackground(0.5, 0.5, 0.5);
-			
-			vtkRenderWindow *renWindow = vtkRenderWindow::New();
-			renWindow->AddRenderer(ren);
-			
-			vtkInteractorStyleTrackballCamera *style = vtkInteractorStyleTrackballCamera::New();
-			rwi->SetInteractorStyle(style);
-			
-			rwi->SetRenderWindow(renWindow);
-			rwi->Initialize();
-			
-			vtkConeSource *cone = vtkConeSource::New();
-			cone->SetResolution(50);
-			vtkPolyDataMapper *coneMapper = vtkPolyDataMapper::New();
-			coneMapper->SetInput(cone->GetOutput());
-			vtkActor *coneActor;
-			coneActor = vtkActor::New();
-			coneActor->SetMapper(coneMapper);
-			
-			ren->AddActor(coneActor);
-			
-			ren->Delete();
-			renWindow->Delete();
-			cone->Delete();
-			coneMapper->Delete();
-			coneActor->Delete();
-		}
-		
+// vtk pipeline to create cone
+void VTKViewWindow::create_cone_pipeline(vtkFXRenderWindowInteractor *rwi)
+{
+    vtkRenderer *ren = vtkRenderer::New();
+    ren->SetBackground(0.5, 0.5, 0.5);
+
+    vtkRenderWindow *renWindow = vtkRenderWindow::New();
+    renWindow->AddRenderer(ren);
+
+    vtkInteractorStyleTrackballCamera *style = vtkInteractorStyleTrackballCamera::New();
+    rwi->SetInteractorStyle(style);
+
+    rwi->SetRenderWindow(renWindow);
+    rwi->Initialize();
+
+    vtkConeSource *cone = vtkConeSource::New();
+    cone->SetResolution(50);
+    vtkPolyDataMapper *coneMapper = vtkPolyDataMapper::New();
+    coneMapper->SetInputData(cone->GetOutput());
+    vtkActor *coneActor;
+    coneActor = vtkActor::New();
+    coneActor->SetMapper(coneMapper);
+
+    ren->AddActor(coneActor);
+
+    ren->Delete();
+    renWindow->Delete();
+    cone->Delete();
+    coneMapper->Delete();
+    coneActor->Delete();
+}
+
 }
 
